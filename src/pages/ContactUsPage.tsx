@@ -22,7 +22,7 @@ const ContactUsPage = () => {
     
     try {
       // Send data to webhook
-      await fetch('https://hook.eu2.make.com/foxwfnohpr518sgaftujsqxi6yg63q6y', {
+      await fetch('https://hook.eu2.make.com/onq35nsgtllku3pd9wqwkysa4elt4iwh', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
